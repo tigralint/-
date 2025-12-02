@@ -1,0 +1,7 @@
+{
+  "name": "PSMF Cutter Pro",
+  "description": "Высокопроизводительный трекер диеты и привычек в стиле киберпанк для подготовки к фотосессии.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
